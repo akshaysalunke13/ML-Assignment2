@@ -13,5 +13,5 @@
 `pip install -r requirements.txt`
 
 ## Run Jupyter Notebook
-`jupyter notebook`
+`jupyter notebook`<br>
 Select kernel *.venv* in Jupyter Notebook.
