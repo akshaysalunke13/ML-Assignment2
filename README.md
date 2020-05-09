@@ -1,5 +1,5 @@
 # ML-Assignment2
-**Run below commands in terminal in MacOS**
+**Run below commands in a terminal in MacOS**
 ## Setup venv
 `python3 -m venv <virtual env path>`
 
